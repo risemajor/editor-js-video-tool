@@ -10,7 +10,7 @@
 	],
 	"description": "Video Tool for Editor.js",
 	"license": "MIT",
-	"repository": "https://github.com/risemajor/editor-js-video-tool",
+	"repository": "git://github.com/risemajor/editor-js-video-tool.git",
 	"files": [
 		"dist"
 	],
