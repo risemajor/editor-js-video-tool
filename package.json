@@ -47,5 +47,6 @@
 	},
 	"dependencies": {
 		"@codexteam/icons": "^0.0.6"
-	}
+	},
+	"private": false
 }
